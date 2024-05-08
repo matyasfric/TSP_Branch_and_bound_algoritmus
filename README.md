@@ -13,4 +13,4 @@
     <br>
     <br>
     <p>Do budoucna by velice zlepšilo uživatelskou přivětivost vytvoření grafického rozhraní pro tuto aplikaci, aby umožňovala snazší používání pro všechny.</p>
-    <p>Program je rovněž pod opensource licencí MIT, tudíž s ním může každý volně nakládat, modifikovat, kopírovat a využívat. <b>Tím se otevírá možnost, že každý může přispět k vylepšení, grafického prostředí, rozšíření a úpravy této aplikace.</b></p>
+    <p>Program je rovněž pod opensource licencí MIT, tudíž s ním může každý volně nakládat, modifikovat, kopírovat a využívat. <b>Tím se otevírá možnost, že každý může přispět k vylepšení, vytvoření grafického prostředí, rozšíření a úpravy této aplikace.</b></p>
