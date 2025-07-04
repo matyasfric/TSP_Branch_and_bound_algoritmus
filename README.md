@@ -23,6 +23,11 @@ $$
 \min \sum_{i=1}^{n} \sum_{j=1}^{n} c_{ij}\, x_{ij}
 $$
 
+kde:
+
+(c_{ij}) jsou vzdálenosti mezi místy
+(x_{ij}) jsou binární proměnné (1 pokud je hrana použita)
+
 Při dodržení omezujících podmínek:
 - Každý uzel je navštíven právě jednou
 - Z každého uzlu vede právě jedna cesta
