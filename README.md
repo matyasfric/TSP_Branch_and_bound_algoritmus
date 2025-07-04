@@ -24,8 +24,8 @@ $$
 $$
 
 kde:
-- \(c_{ij}\) jsou vzdálenosti mezi místy
-- \(x_{ij}\) jsou binární proměnné (1 pokud je hrana použita)
+- $$c_{ij}$$ jsou vzdálenosti mezi místy
+- $$x_{ij}$$ jsou binární proměnné (1 pokud je hrana použita)
 
 Při dodržení omezujících podmínek:
 - Každý uzel je navštíven právě jednou
