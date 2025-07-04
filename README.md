@@ -1,3 +1,19 @@
+## Aktualizace projektu (Update)
+
+V této verzi projektu došlo ke kompletnímu refaktorování, významnému rozšíření a vylepšení:
+
+- Přidáno grafické uživatelské rozhraní (GUI), které výrazně usnadňuje práci s programem.
+- Možnost snadného nahrání vstupní matice přímo v GUI.
+- Vytvoření vlastní matice přímo v rozhraní s možností zadání hodnot vzdáleností a názvů bodů.
+- Funkce generování náhodné matice pro rychlé testování.
+- Nástroje pro úpravu matice na symetrickou podobu a kontrolu symetrie vstupních dat.
+- Různé způsoby vizualizace výsledků v podobě orientovaného grafu, včetně označení posloupnosti uzlů.
+- Souhrnné informace o jednotlivých uzlech a přehledné zobrazení výsledné kombinace, posloupnosti a vzdálenosti.
+- Možnost vygenerovat report s výsledky ve formátu Excel.
+
+Tato vylepšení významně přispívají k uživatelské přívětivosti a rozšiřují možnosti využití programu při analyzování a optimalizování okružních dopravních problémů.
+
+---
 
 # TSP_Branch_and_bound_algoritmus
 
