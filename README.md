@@ -1,7 +1,7 @@
 
 # TSP_Branch_and_bound_algoritmus
 
-Tento repozitář obsahuje jednoduchý Python program, který byl vytvořen v rámci bakalářské práce pro výpočet nejkratší možné okružní dopravní trasy pomocí metody Branch and Bound (metoda větví a mezí). Tento problém se označuje též jako problém obchodního cestujícího nebo Travelling salesman problem (TSP).
+Tento repozitář obsahuje jednoduchý Python program, který byl vytvořen v rámci [bakalářské práce](https://theses.cz/id/98lyyr/) pro výpočet nejkratší možné okružní dopravní trasy pomocí metody Branch and Bound (metoda větví a mezí). Tento problém se označuje též jako problém obchodního cestujícího nebo Travelling salesman problem (TSP).
 
 ## Teoretické základy a implementační metodologie
 
@@ -117,8 +117,15 @@ Do budoucna by velice zlepšilo uživatelskou přívětivost vytvoření grafick
 
 Program je pod opensource licencí MIT, tudíž s ním může každý volně nakládat, modifikovat, kopírovat a využívat. Tím se otevírá možnost, že každý může přispět k vylepšení, vytvoření grafického prostředí, rozšíření a úpravy této aplikace.
 
-Vytvořeno v rámci bakalářské práce na téma řešení problému obchodního cestujícího pomocí metody větví a mezí.
+Vytvořeno v rámci bakalářské práce na téma Racionalizace svozu komunálního odpadu ve vybrané lokalitě.
+
+
+Plné znění bakalářské práce včetně příloh a popis konkrétní aplikace této metody je k dispozici [zde](https://is.czu.cz/zp/portal_zp.pl?podrobnosti_zp=337864).
 
 ---
 
-Plné znění bakalářské práce včetně příloh a popis konkrétní aplikace této metody je k dispozici [zde](https://is.czu.cz/zp/index.pl?podrobnosti_zp=337864;zpet=;prehled=vyhledavani;vzorek_zp=fric;kde=nazev;kde=autor;kde=klic_slova;filtr_stav=bez;zobrazit=Zobrazit;typ=1;typ=2;typ=3;typ=101;typ=8;typ=7;fakulta=20;fakulta=41;fakulta=40;fakulta=71;fakulta=50;fakulta=73;fakulta=72;fakulta=10;fakulta=30;obhajoba=2024;obhajoba=2023;obhajoba=2022;jazyk=1;jazyk=3;jazyk=2;jazyk=-1).
+
+### Reference
+
+FRIC, Matyáš. *Racionalizace svozu komunálního odpadu ve vybrané lokalitě*. Online. Bakalářská práce. Praha: Česká zemědělská univerzita v Praze, Provozně ekonomická fakulta, 2024. Dostupné z: https://theses.cz/id/98lyyr/
+
